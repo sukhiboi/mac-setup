@@ -1,5 +1,10 @@
 # This script will do following things
 
+### Run the following command to run this script
+```bash
+chmod +x setup.sh; ./setup.sh;
+```
+
 ### Install the following command line tools
 
 - homebrew
