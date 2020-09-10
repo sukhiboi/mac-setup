@@ -6,8 +6,6 @@
 - ~/temp
   
 ### It will update the vimrc, zshrc and aliases  
-
-<br/>
   
 ### Run the following command to run this script
 ```bash
