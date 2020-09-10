@@ -1,12 +1,20 @@
 # This script will do following things
 
+### It will create the following directories
+- ~/root
+- ~/root/bin
+- ~/temp
+  
+### It will update the vimrc, zshrc and aliases  
+
+<br/>
+  
 ### Run the following command to run this script
 ```bash
 chmod +x setup.sh; ./setup.sh;
 ```
 
 ### Install the following command line tools
-
 - homebrew
 - htop
 - git
