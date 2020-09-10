@@ -9,6 +9,7 @@ brew install vim;
 brew install node;
 brew install sqlite;
 brew install redis;
+brew install travis;
 brew install jq;
 brew install curl;
 brew install zsh;

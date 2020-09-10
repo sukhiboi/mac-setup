@@ -16,10 +16,11 @@
 - bat
 - tree
 - heroku cli
-- iterm2
+- travis
 
 ### Install Applications
 
+- iterm2
 - vs code
 - slack
 - google chat
