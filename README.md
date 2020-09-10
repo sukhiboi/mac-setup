@@ -12,7 +12,7 @@
 chmod +x setup.sh; ./setup.sh;
 ```
 
-### Install the following command line tools
+### It installs following command line tools
 - homebrew
 - htop
 - git
@@ -30,7 +30,7 @@ chmod +x setup.sh; ./setup.sh;
 - travis
 - spaceship prompt
 
-### Install Applications
+### It installs following Applications
 
 - iterm2
 - vs code
