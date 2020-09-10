@@ -29,7 +29,5 @@
 
 ### Things to be done manually
 
-- It will setup zsh as default shell.  
-- It will update .zshrc and .vimrc ( You need to install the plugins of vim )
-- It will install fira code.
- - After installing vscode, install setting-sync by shan khan and restore all the extensions
+- You need to install the plugins of vim
+- After installing vscode, install setting-sync by shan khan and restore all the extensions
