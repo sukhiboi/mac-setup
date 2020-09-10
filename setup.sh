@@ -23,6 +23,10 @@ brew install heroku
 brew cask install iterm2
 brew cask install visual-studio-code
 brew cask install google-chat
+git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
+ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme" 
+brew tap homebrew/cask-fonts
+brew cask install font-fira-code
 
 ######## Applications need to be manually installed 
 # mindnode
