@@ -7,17 +7,16 @@ brew install slack;
 brew install git;
 brew install vim;
 brew install node;
-npm i n;
 brew install sqlite;
 brew install redis;
 brew install jq;
 brew install curl;
+brew install zsh;
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 chsh -s /bin/zsh;
 brew install zsh-autosuggestions;
 brew install bat;
 brew install tree;
-#installing heroku cli
 brew tap heroku/brew
 brew install heroku
 brew cask install iterm2
