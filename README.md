@@ -32,11 +32,12 @@ chmod +x setup.sh; ./setup.sh;
 
 ### It installs following Applications
 
-- iterm2
-- vs code
-- slack
-- google chat
-- google chrome
+- Iterm2
+- Visual Studio Code
+- Slack
+- Google Chat
+- Google Chrome
+- Postman
 
 ### Things to be done manually
 
