@@ -25,7 +25,7 @@ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/the
 
 #install command line tools
 echo "Installing command line tools"
-brew install htop git vim node sqlite redis travis jq curl bat tree npm
+brew install htop vim node sqlite redis travis jq curl bat tree npm
 brew tap heroku/brew
 brew install heroku
 
